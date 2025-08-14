@@ -224,11 +224,21 @@ Open source. Add a specific license if desired (e.g., MIT) in a `LICENSE` file.
 - Charts by `recharts`
 - Tooling by Vite
 
-## Screenshot
+## Screenshots
+
+### Dashboard Header and Title
 <img width="1917" height="145" alt="Screenshot 2025-08-14 141936" src="https://github.com/user-attachments/assets/b8855235-adfd-49f7-aaeb-a086b5c19943" />
+
+### Filters and Controls
 <img width="1919" height="251" alt="Screenshot 2025-08-14 141952" src="https://github.com/user-attachments/assets/a3810209-f4c0-45eb-b875-3ed024a48ee6" />
+
+### Execution Trends (Line Chart)
 <img width="1919" height="856" alt="Screenshot 2025-08-14 142000" src="https://github.com/user-attachments/assets/ea6558ac-94cf-4029-b1a5-c87d4ab53e46" />
+
+### Status Distribution (Pie Chart)
 <img width="1890" height="870" alt="Screenshot 2025-08-14 142020" src="https://github.com/user-attachments/assets/37f67722-925a-4e02-9941-cb88b827eac6" />
+
+### Interface Logs Table and Pagination
 <img width="1877" height="843" alt="Screenshot 2025-08-14 142035" src="https://github.com/user-attachments/assets/f5e1d7fd-7a6a-491f-ae4e-4ee17cb5b4f7" />
 
 
